@@ -74,6 +74,8 @@ http://SERVER-IP:8080/hello-java-app/hello
 ```
 
 ## Expected Output
+<img width="1008" height="417" alt="image" src="https://github.com/user-attachments/assets/63e804e6-0479-4ea1-a171-e56a4bdd8ed4" />
+
 
 Welcome to My First Java Application!
 
